@@ -1,7 +1,7 @@
 Hi, now this package return REGEX you need.
 
 # Template:
-[!(https://circleci.com/github/hieusmiths/regex.svg?style=svg)]
+[![CircleCI](https://circleci.com/github/hieusmiths/regex.svg?style=svg)]
 
 LIST REGEX SUPPORTED:
 
