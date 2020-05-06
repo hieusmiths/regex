@@ -1,0 +1,10 @@
+version: 2
+jobs:
+	build:
+		working_directory: ~/redux-async
+		docker:
+			- image: circleci/node:8
+			steps:
+				- run:
+          name: Install Dependencies
+          command: node index.js
